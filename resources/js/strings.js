@@ -1,4 +1,3 @@
-import {loadTimeData} from '//resources/js/load_time_data.js';
 loadTimeData.data = {
     "bestScore": "最佳$1$2$3",
     "bestScoreFlyout": "最佳分数: $1",
